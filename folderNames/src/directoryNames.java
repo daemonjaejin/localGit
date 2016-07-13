@@ -17,6 +17,7 @@ public class directoryNames {
             System.out.format("args[%d] : %s%n", i, args[i]);
         }
 
+
     }
 
 }
